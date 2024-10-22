@@ -1,0 +1,19 @@
+{
+  "name": "quotidian",
+  "version": "0.2.0",
+  "description": "A simple, in-memory function scheduler",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanrblack/quotidian.git"
+  },
+  "author": "Evan Black <evan@erblack.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evanrblack/quotidian/issues"
+  },
+  "homepage": "https://github.com/supplypike/evanrblack#readme"
+}
