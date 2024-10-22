@@ -4,6 +4,7 @@ Quotidian is a simple, in-memory function scheduler.
 
 ```js
 const { initialize } = require('quotidian');
+
 initialize([
   { action: () => console.log('Runs every minute') },
   {
