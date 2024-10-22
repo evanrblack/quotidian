@@ -1,6 +1,6 @@
 # Quotidian
 
-Quotidian is a simple in-memory function scheduler.
+Quotidian is a simple, in-memory function scheduler.
 
 ```js
 const { initialize } = require('quotidian');
